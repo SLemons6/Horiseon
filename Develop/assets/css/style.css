@@ -1,14 +1,18 @@
+/*page style start*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*page style end*/
 
+/*body style start*/
 body {
     background-color: #d9dcd6;
 }
+/*body style end*/
 
-/*header style*/
+/*header style start*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,7 +56,7 @@ p {
 }
 /*header style end*/
 
-/*hero style */
+/*hero style start */
 .hero {
     height: 800px;
     width: 100%;
