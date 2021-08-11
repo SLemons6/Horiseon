@@ -7,9 +7,10 @@
 ## Website
 https://slemons6.github.io/Horiseon/
 
-https://user-images.githubusercontent.com/86684878/129062134-3eb1877e-6de7-43e0-971e-ba3e9345cfc0.png
+![Horiseon Screenshot 1](https://user-images.githubusercontent.com/86684878/129062957-34fa14df-3925-461c-948d-ea35e227df08.png)
 
-https://user-images.githubusercontent.com/86684878/129062165-2eaa712a-748d-4f85-baa5-da62885ace4e.png
+![Horiseon Screenshot 2](https://user-images.githubusercontent.com/86684878/129063053-c2d3bdfb-0101-46fe-94a8-076c16051418.png)
+
 
 ## Contribution
 Made by Shayne Lemons
